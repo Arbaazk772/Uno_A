@@ -1,0 +1,31 @@
+.DP{
+    font-size: xx-large;
+    background-color: darksalmon;
+    padding: 20px;
+}
+.bx{
+    background-color: darksalmon;
+
+}
+.DD{
+    border: 1px solid black;
+    width: 20vw;
+    text-align: center;
+    display: grid;
+    justify-content: center;
+    margin:5px auto;
+    height: 15vh;
+    border-radius: 15%;
+    background-color: white;
+    justify-self: center;
+    justify-items: center;
+    align-content: center;
+cursor: pointer;
+}
+
+.NL{
+    margin: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    cursor: pointer;
+}
